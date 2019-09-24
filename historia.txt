@@ -9,4 +9,5 @@ Si quieres ver los archivos ocultos de una carpeta puedes habilitar la opción
  Recuerda que al ejecutar este comando (y de aquí en adelante) vamos a tener una nueva
  carpeta oculta llamada .git con toda la base de datos con cambios atómicos en nuestro
  proyecto. Nota si por error se elimina esta carpeta del S.O se perdera todo el repositorio
- y solo quedarian los archivos dentro de las carpetas.
+ y solo quedarian los archivos dentro de las carpetas, para recuperarlo tendriamo que ejecutar
+ el comando "git init" de nuevo y se crearia un nuevo repositorio.
